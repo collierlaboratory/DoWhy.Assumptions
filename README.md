@@ -1,5 +1,5 @@
 # DoWhy.Assumptions
-Arguably the most critical limitation of DoWhy is its inability to test propensity score assumptions. As a resource, we provided users with Python code to check model assumptions on Github.  
+Python code to check propensity score assumptions:  
 
 # Import relevant libraries
 import warnings
